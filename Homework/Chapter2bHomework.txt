@@ -1,0 +1,5 @@
+1. A data type is an identifier. A data type provides a container for storage. Whe have data types so we can manage storage use and limit wasted space.
+
+2. Collation is a property of a character data that encapsulates several aspects: Language support, sort order, case sensitivity, accent sensitivityand more.
+
+3.  

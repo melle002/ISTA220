@@ -1,0 +1,6 @@
+C:\Users\micha\Documents\MSSA\ISTA220\Exercises\CSharpSBS\Chapter 3\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.exe.config
+C:\Users\micha\Documents\MSSA\ISTA220\Exercises\CSharpSBS\Chapter 3\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.exe
+C:\Users\micha\Documents\MSSA\ISTA220\Exercises\CSharpSBS\Chapter 3\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.pdb
+C:\Users\micha\Documents\MSSA\ISTA220\Exercises\CSharpSBS\Chapter 3\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\MSSA\ISTA220\Exercises\CSharpSBS\Chapter 3\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.exe
+C:\Users\micha\Documents\MSSA\ISTA220\Exercises\CSharpSBS\Chapter 3\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.pdb

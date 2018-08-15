@@ -1,0 +1,2 @@
+C:\Users\micha\Documents\MSSA\ISTA220\Exercises\CSharpSBS\Chapter 3\DailyRate\DailyRate\obj\Debug\DailyRate.csprojAssemblyReference.cache
+C:\Users\micha\Documents\MSSA\ISTA220\Exercises\CSharpSBS\Chapter 3\DailyRate\DailyRate\obj\Debug\DailyRate.csproj.CoreCompileInputs.cache
