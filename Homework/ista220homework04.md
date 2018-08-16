@@ -30,6 +30,7 @@ Avoids unnecessary work to evaluate all arguments in a expression.
 ````
   && if the left side evaluates to False then the expression is False
   || if the left side evaluates to True then the expression must be True
+````
 ###### 5. Look at the list of operators. What operator has the highest precedence? Which has the lowest
 ````
 () have the highest priority
