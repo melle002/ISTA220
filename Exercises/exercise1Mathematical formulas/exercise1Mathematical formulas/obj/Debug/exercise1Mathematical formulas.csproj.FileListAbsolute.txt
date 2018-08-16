@@ -1,7 +1,0 @@
-C:\Users\micha\Documents\MSSA\ISTA220\Exercises\exercise1Mathematical formulas\exercise1Mathematical formulas\obj\Debug\exercise1Mathematical formulas.csproj.CoreCompileInputs.cache
-C:\Users\micha\Documents\MSSA\ISTA220\Exercises\exercise1Mathematical formulas\exercise1Mathematical formulas\bin\Debug\exercise1Mathematical formulas.exe.config
-C:\Users\micha\Documents\MSSA\ISTA220\Exercises\exercise1Mathematical formulas\exercise1Mathematical formulas\bin\Debug\exercise1Mathematical formulas.exe
-C:\Users\micha\Documents\MSSA\ISTA220\Exercises\exercise1Mathematical formulas\exercise1Mathematical formulas\bin\Debug\exercise1Mathematical formulas.pdb
-C:\Users\micha\Documents\MSSA\ISTA220\Exercises\exercise1Mathematical formulas\exercise1Mathematical formulas\obj\Debug\exercise1Mathematical formulas.exe
-C:\Users\micha\Documents\MSSA\ISTA220\Exercises\exercise1Mathematical formulas\exercise1Mathematical formulas\obj\Debug\exercise1Mathematical formulas.pdb
-C:\Users\micha\Documents\MSSA\ISTA220\Exercises\exercise1Mathematical formulas\exercise1Mathematical formulas\obj\Debug\exercise1Mathematical formulas.csprojAssemblyReference.cache
