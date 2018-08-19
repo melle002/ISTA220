@@ -18,8 +18,8 @@ Answer the discussion questions in writing for chapter 4.
   <=
   >
   >=
-  &&
-  =
+  AND &&
+  OR ||
   ````
 
 ###### 3. What is the general concept of short circuiting? This question has a short and simple answer and you do not need to have a detailed response.
@@ -34,7 +34,7 @@ Avoids unnecessary work to evaluate all arguments in a expression.
 ###### 5. Look at the list of operators. What operator has the highest precedence? Which has the lowest
 ````
 () have the highest priority
-= has the lowest priority
+= (assignment operator)has the lowest priority
 ````
 ###### 6. In an if or else construction using multiple lines of code, what eﬀect does the use of curly braces have?
 
