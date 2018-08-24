@@ -37,7 +37,7 @@ Yes, you can omit any of the three parts or all parts. If all parts are omited y
 
 
 ###### 7. How do you guarantee that a loop runs at least once?
-By using the so statement
+By using the do while loop
 
 ###### 8. What does the break statement do?
 breaks out of the loop and and allows for execution, starting at the first statement after the loop that was exited.
