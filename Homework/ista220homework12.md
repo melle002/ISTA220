@@ -1,12 +1,12 @@
-Homework 12, ISTA-220
-Chapter 12, C# Step by Step
+# Homework 12, ISTA-220
+## Chapter 12, C# Step by Step
 July 28, 2018
 1 Homework
 1.1 Readings
-Read chapter 12, pages 255 – 276 in the C# Step by Step book.
+Read chapter 12, pages 255 ï¿½ 276 in the C# Step by Step book.
 1.2 Discussion Questions
 Answer the discussion questions in writing.
-1. How does inheritance promote the principle of don’t repeat yourself (DRY)?
+1. How does inheritance promote the principle of donï¿½t repeat yourself (DRY)?
 2. What is the syntax of a derived class that inherits from a base class?
 3. Do all useer de?ned types (classes and structs) inherit from some base class? If so, what is it?
 4. What happens if you do not have a default constructor in a base class when creating a derived class?
