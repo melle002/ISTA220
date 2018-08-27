@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace exercise1Mathematical_formulas
+namespace exercise3ExceptionHandling
 {
     class Program
     {
