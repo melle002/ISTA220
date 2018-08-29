@@ -6,14 +6,14 @@ Read chapter 7, pages 153 - 174 in the C# Step by Step book.
 #### Discussion Questions
 Answer the discussion questions in writing.
 ##### 1. What is a class? According to the book, what does a class "arrange?"
-A Class is an entity and it arranges information and behavior
+A Class is an entity and it arranges information and behavior. Blueprint or pattern
 
 ##### 2. What are the two purposes of encapsulatiohn?
 1. to combine methods and data within a class: support classification
 2. To control the accessibility of the methods and data: control the use of the Class
 
 ##### 3. How do you instantiate an instance of a class? How do you access that instance?
-By using the keyword Class and you access it by creating a variable and initializing it
+By using the keyword new and you access it by using the variable assigned to it
 
 ##### 4. What is the default access of the fields and methods of a class? How do you change the default?
 The default access is private and you change it by declaring public.
@@ -22,7 +22,7 @@ The default access is private and you change it by declaring public.
 public ClassName(parameters)
 
 ##### 6. What is the diference between class fields and methods, and instance fields and methods? How do you create class fields and methods?
-
+instance fields and methods must be created, class fields and methods do not.
 
 ##### 7. How do you bring a static class in scope? Why would you want to bring a static class in scope?
 By using static using statements. To save on typing but it is always good practice to fully qualify a class with it's namespace.
@@ -34,7 +34,7 @@ When using querry expressions. They are classes that do not have a name.
 The simple explanation is: Same class different behavior
 
 ##### 10. What is message passing as this term is used in computer science? This is not in the book.
-Sending a message to a process that relies on it's contained information to produce the proper code to run
+create an object to handle a process then call that object. ex. Math.SQRT()
 
 ##### 11. What was the first object-oriented programming language?
 Simula
