@@ -10,16 +10,16 @@ Answer the discussion questions in writing.
 Shallow copy is when the clone method simply copies references  Deep copy includes binary data
 
 #### 2. What is the value of a reference after you declare and initialize it?
-Whatever it was initialized as
+A memmory address
 
 #### 3. How do you declare a value type?
-by stating datatype then variable name
+by stating datatype then variable name, semicolon
 
 #### 4. How do you declare a reference type?
- by providing an assignment operater followed by a value
+ by providing an assignment operater followed by new keyword
 
 #### 5. Does C# allow you to assign NULL to a value type?
-yes
+no
 
 #### 6. Can you assign a nullable value type to a non-nullable variable of the same type? Why or why not?
 No because it must use the original value assigned
@@ -31,10 +31,10 @@ The stack is in order from bottom to top and must be accessed in order from last
 Classes must be named
 
 #### 9. What does ref do?
-causes a method to return the same variabl
+passes by reference instead of copy
 
 #### 10. What does out do?
-if you use the keyword "out" then the function must set a value to that variable, i.e. it must output a value
+if you use the keyword "out" then the method must assign a value to that variable before it finishes, i.e. it must output a value
 
 #### 11. Describe boxing and unboxing in your own words
 Boxing is used to store value types in the garbage-collected heap. Boxing is an implicit conversion of a value type to the type object or to any interface type implemented by this value type. Unboxing is an explicit conversion from the type object to a value type or from an interface type to a value type that implements the interface.
