@@ -9,7 +9,7 @@ Answer the discussion questions for chapter 6 in writing.
  An exception separates error-handling from the code that implements the primary logic of a program.
 
 ###### 2. What happens in a try block if the program executes without errors?
-All Statements in the try block run consecutively, to completion
+All Statements in the try block run consecutively, to completio
 
 ###### 3. How does the catch mechanism work for unhandled exceptions?
 the runtime attempts to find a matching catch handler, if none exists, the calling method exits and execution is repeated.
