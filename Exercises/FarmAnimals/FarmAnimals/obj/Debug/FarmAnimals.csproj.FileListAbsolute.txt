@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\FarmAnimals\FarmAnimals\obj\Debug\FarmAnimals.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\FarmAnimals\FarmAnimals\obj\Debug\FarmAnimals.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\FarmAnimals\FarmAnimals\bin\Debug\FarmAnimals.exe.config
+C:\Users\micha\source\repos\FarmAnimals\FarmAnimals\bin\Debug\FarmAnimals.exe
+C:\Users\micha\source\repos\FarmAnimals\FarmAnimals\bin\Debug\FarmAnimals.pdb
+C:\Users\micha\source\repos\FarmAnimals\FarmAnimals\obj\Debug\FarmAnimals.exe
+C:\Users\micha\source\repos\FarmAnimals\FarmAnimals\obj\Debug\FarmAnimals.pdb
+C:\Users\micha\MSSA\ISTA220\Exercises\FarmAnimals\FarmAnimals\bin\Debug\FarmAnimals.exe.config
+C:\Users\micha\MSSA\ISTA220\Exercises\FarmAnimals\FarmAnimals\bin\Debug\FarmAnimals.exe
+C:\Users\micha\MSSA\ISTA220\Exercises\FarmAnimals\FarmAnimals\bin\Debug\FarmAnimals.pdb
+C:\Users\micha\MSSA\ISTA220\Exercises\FarmAnimals\FarmAnimals\obj\Debug\FarmAnimals.csprojAssemblyReference.cache
+C:\Users\micha\MSSA\ISTA220\Exercises\FarmAnimals\FarmAnimals\obj\Debug\FarmAnimals.csproj.CoreCompileInputs.cache
+C:\Users\micha\MSSA\ISTA220\Exercises\FarmAnimals\FarmAnimals\obj\Debug\FarmAnimals.exe
+C:\Users\micha\MSSA\ISTA220\Exercises\FarmAnimals\FarmAnimals\obj\Debug\FarmAnimals.pdb
